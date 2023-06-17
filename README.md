@@ -1,0 +1,2 @@
+# Probabilistic-Pursuit-Adaptive-Decision-Making-in-Dynamic-Environments
+The environment consists of a graph with 50 nodes connected with randomly. The prey moves in random directions with a certain probability and the predator moves in the direction of the shortest path to the Agent.. The objective is for the Agent to capture the Prey while evading capture by the Predator in partial or no information environments.
