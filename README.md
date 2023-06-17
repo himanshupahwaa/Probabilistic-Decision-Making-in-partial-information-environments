@@ -14,4 +14,4 @@ Combined Partial Information Setting: The Agent does not know the exact location
 
 The objective is to analyze the performance of each agent in terms of how often the Predator catches the Agent, how often the Agent catches the Prey, the occurrence of simulation hang, and the accuracy of the Agent's knowledge about the Predator and the Prey. The report should compare the specified agents' performance and evaluate if the agents effectively utilize the available information.
 
-**To see the full approach and strategy implementation for the above mentioned scenarios, please refer to the ProbabilisticPursuit_AdaptiveDecisionMakinginDynamicEnvironments.pdf in the repository.**
+**To see the full approach and strategy implementation for the above mentioned scenarios, please refer to the ProbabilisticPursuit.pdf in the repository.**
